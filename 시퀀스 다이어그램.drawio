@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-05-31T02:39:16.651Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="r1jhF7JdPyjNQ-aDY1dD" version="21.3.3" type="github">
+<mxfile host="app.diagrams.net" modified="2023-05-31T02:41:00.566Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36" etag="OnGHeMQ-2ZZ0Wr2db6w4" version="21.3.3" type="github">
   <diagram name="페이지-1" id="3UbikNSeKCQyz51uU4FQ">
     <mxGraphModel dx="438" dy="239" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -162,7 +162,7 @@
         </mxCell>
         <mxCell id="yFbAY89Hz5yFo4lmC0or-61" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="360" as="sourcePoint" />
+            <mxPoint x="50" y="360" as="sourcePoint" />
             <mxPoint x="300" y="360" as="targetPoint" />
           </mxGeometry>
         </mxCell>
@@ -171,15 +171,18 @@
         </mxCell>
         <mxCell id="yFbAY89Hz5yFo4lmC0or-70" value="" style="endArrow=none;dashed=1;html=1;dashPattern=1 3;strokeWidth=2;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="60" y="390" as="sourcePoint" />
-            <mxPoint x="300" y="390" as="targetPoint" />
+            <mxPoint x="60" y="401" as="sourcePoint" />
+            <mxPoint x="300" y="401" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="yFbAY89Hz5yFo4lmC0or-71" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="190" y="440" as="sourcePoint" />
-            <mxPoint x="60" y="390" as="targetPoint" />
+            <mxPoint x="62.5" y="401" as="sourcePoint" />
+            <mxPoint x="47.5" y="401" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="yFbAY89Hz5yFo4lmC0or-72" value="택시 그룹 인원모집 완료" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="105" y="380" width="155" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
